@@ -1,1 +1,3 @@
-# FitnessAsisstan-Flutter
+# flutter_app
+
+A new Flutter project.
